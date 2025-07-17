@@ -1,0 +1,12 @@
+
+
+Hey I am Ronald from OPENWEATHER.COM
+Weather report of the day
+ Date : 2025-07-17  
+ Time : 15:51:35  
+ Location : eluru
+eluru's temperature: 36.6°C 
+ Wind speed: 2.79 m/s 
+ Description: overcast clouds 
+ Weather: Clouds '
+'
